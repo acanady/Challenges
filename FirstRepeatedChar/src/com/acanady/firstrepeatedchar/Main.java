@@ -16,7 +16,7 @@ public class Main {
     }
 
     public static void main(String[] args){
-        System.out.println(firstrepeat("character"));
+        System.out.println(firstrepeat("Bologna"));
 
     }
 
