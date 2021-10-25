@@ -7,7 +7,7 @@ Given a string (s) find the first repeating character in the string and return t
 
 ```
 Input: s = "character"
-Output: -1
+Output: a
 ```
 
 **Example 2**
@@ -20,5 +20,12 @@ Output: e
 
 ```
 Input: s = "ababacc"
-Output: c
+Output: a
+```
+
+**Example 4**
+
+```
+Input: s = "abc"
+Output: -1
 ```
