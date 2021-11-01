@@ -27,6 +27,6 @@ Time complexity: O(n)
 ## Solution Explanation
 
 This particular problem tests proper use of data structures. In our solution
-we utilize a hash set ```num_set```. 
+we utilize a hash set ```num_set```. <br>
 To determine whether or not a value is currently in the array We can add it to the set, values in a set are unique and a duplicate cannot be added, if a duplicate is found, it returns false. This solution has a space
 complexity of ```O(n)``` since, at most, we will add every elmeent in ```num``` to the ```num_set```
