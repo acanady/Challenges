@@ -3,7 +3,7 @@
 **LeetCode quesiton 217**
 **Difficulty:** Easy
 
-Given an integer array of ```nums``` return ```true``` if any value appeares at least twice in the array, and return ```false``` if every element is distinct.
+Given an integer array ```nums``` return ```true``` if any value appeares at least twice in the array, and return ```false``` if every element is distinct.
 
 **Example 1**
 ```
