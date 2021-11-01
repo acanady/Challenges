@@ -31,4 +31,4 @@ we utilize a hash set ```num_set```. Sets contain only unique elements, attempti
 
 Solution has a space complexity of ```O(n)``` since, at most, we will add every elmement in ```num``` to the ```num_set```
 
-There exists a solution with a space/time complexity of ```O(1)```
+There exists a solution with a space compexity ```O(1)```
