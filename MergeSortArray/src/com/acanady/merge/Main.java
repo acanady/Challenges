@@ -17,7 +17,7 @@ public class Main {
     }
 
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
-        int temp = 0;
+
         int m_pointer = m-1;
         int n_pointer = n-1;
 
@@ -25,8 +25,8 @@ public class Main {
 
         for(int i =m+n-1; i >= 0; i--){
 
-            System.out.println("i: " + i + " | m pointer: " + m_pointer + " | n pointer: " + n_pointer);
-            System.out.println(Arrays.toString(nums1));
+            /*System.out.println("i: " + i + " | m pointer: " + m_pointer + " | n pointer: " + n_pointer);
+            System.out.println(Arrays.toString(nums1));*/
 
             if(m_pointer < 0){
                 nums1[i] = nums2[n_pointer];
@@ -48,9 +48,9 @@ public class Main {
                 m_pointer--;
             }
 
-            System.out.println("i: " + i + " | m pointer: " + m_pointer + " | n pointer: " + n_pointer);
+            /*System.out.println("i: " + i + " | m pointer: " + m_pointer + " | n pointer: " + n_pointer);
             System.out.println(Arrays.toString(nums1));
-            System.out.println("---------------------------------");
+            System.out.println("---------------------------------");*/
         }
     }
 
