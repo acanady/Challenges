@@ -25,4 +25,6 @@ Then 4 is the first bad version.
 Input: n = 1, bad = 1
 Output: 1
 ```
-[test](/JavaCodeChallenges/src/com/acanady/challengesolutions/FirstBadVersion.java)
+
+## Java Solution
+[FirstBadVersion.java](/JavaCodeChallenges/src/com/acanady/challengesolutions/FirstBadVersion.java)
