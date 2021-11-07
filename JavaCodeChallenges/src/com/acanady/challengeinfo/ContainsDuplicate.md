@@ -25,7 +25,8 @@ Output: true
 Time complexity: O(n)
 
 ## Solution and Explanation
-[ContainsDuplicate.java]()
+[ContainsDuplicate.java](/JavaCodeChallenges/src/com/acanady/challengesolutions/ContainsDuplicate.java)
+
 This particular problem tests proper use of data structures. In our solution
 we utilize a hash set ```num_set```. Sets contain only unique elements, attempting to add a duplicate to a set will return false in java. We can use this functionality to build our solution.
 
