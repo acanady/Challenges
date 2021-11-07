@@ -25,3 +25,4 @@ Then 4 is the first bad version.
 Input: n = 1, bad = 1
 Output: 1
 ```
+
