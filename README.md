@@ -7,3 +7,4 @@ LeetCode and other coding challenge questions and my own solutions for personal 
 * [First Repeated Char](/JavaCodeChallenges/src/com/acanady/challengeinfo/FirstRepeatedCharacter.md)
 * [Search Insert Position](/JavaCodeChallenges/src/com/acanady/challengeinfo/SearchInsertPosition.md)
 * [Squares of a Sorted Array](/JavaCodeChallenges/src/com/acanady/challengeinfo/SquaresArray.md)
+* [Move Zeores](/JavaCodeChallenges/src/com/acanady/challengeinfo/MoveZeroes.md)
