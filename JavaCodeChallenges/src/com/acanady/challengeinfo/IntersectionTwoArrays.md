@@ -15,3 +15,14 @@ Output: [4,9]
 
 ##Solution and Explanation
 [IntersectionTwoArrays.java](/JavaCodeChallenges/src/com/acanady/challengesolutions/IntersectionTwoArrays)
+
+Using an ArrayList and a Hashtable we store the frequencies of one of the arrays. We then
+iterate through the second array and , for every element that exists in the hashtable who
+has a frequency greater than 0, we add it to our list. In this way we allow for  duplicates, that is
+there are two 2's in ```nums1``` and two 2's in ```nums2``` then our ```Arraylist``` will have two 2's as well.
+
+We then must iterate through the length of our ```ArrayList``` and add our values to
+an ```int[] array```.
+
+Time Complexity: O(m+n)
+Space Copmlexity: O(m+n)
