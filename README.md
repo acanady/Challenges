@@ -8,3 +8,4 @@ LeetCode and other coding challenge questions and my own solutions for personal 
 * [Search Insert Position](/JavaCodeChallenges/src/com/acanady/challengeinfo/SearchInsertPosition.md)
 * [Squares of a Sorted Array](/JavaCodeChallenges/src/com/acanady/challengeinfo/SquaresArray.md)
 * [Move Zeores](/JavaCodeChallenges/src/com/acanady/challengeinfo/MoveZeroes.md)
+* [Intersection of Two Arrays II](/JavaCodeChallenges/src/com/acanady/challengeinfo/IntersectionTwoArrays.md)
