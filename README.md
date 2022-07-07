@@ -11,3 +11,5 @@ LeetCode and other coding challenge questions and my own solutions for personal 
 * [Intersection of Two Arrays II](/JavaCodeChallenges/src/com/acanady/challengeinfo/IntersectionTwoArrays.md)
 * [Two Sum Input II](/JavaCodeChallenges/src/com/acanady/challengeinfo/TwoSumInputII.md)
 * [Develop a LinkedList](/csCodeChallenges/LinkedLists/Docs.md)
+* [Develop a Trie](/csCodeChallenges/Tries/Docs.md)
+* [Develop a Queue](/csCodeChallenges/Queues/Docs.md)
