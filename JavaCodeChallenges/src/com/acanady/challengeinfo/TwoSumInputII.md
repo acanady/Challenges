@@ -43,10 +43,10 @@ We have  two pointers, one at the end and one at the beginning, we add the first
 to the last value and determine if it is equal to the target value. If it's two big we decrement
 the end pointer, if it's too small we increment the beginning pointer. 
 
-This solution works because our array is on order, say our target is 10 for instance and  we  start
+This solution works because our array is on order. Say, for instance, our target is 10 and  we  start
 at both ends, our highest value is 5 and our lowest is 1, 5 + 1 is 6. 5 is our largest value, if we decremented our end
-pointer in this case we could only ever get a smaller value, this we must increment the start pointer which
-will only ever increase in size. A similar argument is made for why we increment the start pointer when we have
+pointer, in this case, we could only ever get a smaller value, thus we must increment the start pointer which
+will only ever increase in size. A similar argument is made for why we decrement the end pointer when we have
 surpassed the target value.
 
 Time Complexity: O(n)
