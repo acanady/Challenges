@@ -32,4 +32,4 @@ we utilize a hash set ```num_set```. Sets contain only unique elements, attempti
 
 Solution has a space complexity of ```O(n)``` since, at most, we will add every elmement in ```num``` to the ```num_set```
 
-There exists a solution with a space compexity ```O(1)```
+There exists solutions with a space compexity ```O(1)``` but you trade that for time as their time complexity is greater than ```O(n)```
