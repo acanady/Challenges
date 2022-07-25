@@ -30,6 +30,6 @@ Time complexity: O(n)
 This particular problem tests proper use of data structures. In our solution
 we utilize a hash set ```num_set```. Sets contain only unique elements, attempting to add a duplicate to a set will return false in java. We can use this functionality to build our solution.
 
-Solution has a space complexity of ```O(n)``` since, at most, we will add every elmement in ```num``` to the ```num_set```
+Solution has a space and time complexity of ```O(n)``` since, at most, we will add every elmement in ```num``` to the ```num_set```
 
 There exists solutions with a space compexity ```O(1)``` but you trade that for time as their time complexity is greater than ```O(n)```
